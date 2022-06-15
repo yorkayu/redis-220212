@@ -1,0 +1,1 @@
+最全redis线程池实现，Spring支持，redis Cluster线程池，主从Redis读写分离，sentenl读写分离，sentenl shared 线程池等。
