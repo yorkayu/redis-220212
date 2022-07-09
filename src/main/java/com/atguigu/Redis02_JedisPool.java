@@ -32,6 +32,7 @@ public class Redis02_JedisPool {
         System.out.println(jedis.ping());
         //关闭连接
         jedis.close();
+        System.out.println("helloworld");
 
     }
 }
